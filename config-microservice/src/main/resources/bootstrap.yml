@@ -1,3 +1,6 @@
 spring:
   application:
     name: configserver
+#eureka:
+#  instance:
+#    perferIpAddress:true

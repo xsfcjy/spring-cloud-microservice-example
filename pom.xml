@@ -19,6 +19,7 @@
         <module>consul-microservice</module>
         <module>movie-microservice</module>
         <module>movies-ui</module>
+        <module>config-front</module>
     </modules>
 
     <parent>
